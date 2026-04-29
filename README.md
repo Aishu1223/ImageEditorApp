@@ -75,7 +75,7 @@ ImageEditorApp/
 └── sample_images/
 ```
 
----
+```
 
 ## Author Details
 
