@@ -63,15 +63,12 @@ streamlit run app.py
 
 ---
 
-## Screenshot of the Running Application
+## link of the Running Application
 
-Add your project screenshot here after running the application.
+https://drive.google.com/file/d/1fk3hbcDssUVGf7je-JHKicgJW9-MpUZP/view?usp=drive_link
 
-Example:
 
-![App Screenshot](screenshot.png)
 
-> Save your screenshot as `screenshot.png` inside your project folder before uploading to GitHub.
 
 ---
 
@@ -160,7 +157,9 @@ streamlit run app.py
 5. Grayscale
 6. Edge Detection
 
+---
 
+```
 
 ## Project Structure
 
