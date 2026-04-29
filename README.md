@@ -33,7 +33,7 @@ The Image Editor App is a web-based application developed using Streamlit and Op
 ### Step 1: Clone the Repository
 
 ```bash id="setup01"
-git clone <your-github-repository-link>
+git clone <https://github.com/Aishu1223/ImageEditorApp>
 cd ImageEditorApp
 ```
 
@@ -60,23 +60,11 @@ streamlit run app.py
 5. Grayscale
 6. Edge Detection
 
----
 
-## Screenshot of the Running Application
-
-Add your project screenshot here after running the application.
-
-Example:
-
-![App Screenshot](screenshot.png)
-
-> Save your screenshot as `screenshot.png` inside your project folder before uploading to GitHub.
-
----
 
 ## Project Structure
 
-```text id="structure02"
+
 ImageEditorApp/
 │
 ├── app.py
@@ -91,6 +79,6 @@ ImageEditorApp/
 
 ## Author Details
 
-Developed by: Your Name
+Developed by: Aishwarya Suroju
 Submitted to: Innomatics Research Labs
 Project: Machine Learning Programming Assignment – Image Editing App
