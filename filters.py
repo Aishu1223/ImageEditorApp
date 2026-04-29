@@ -30,3 +30,7 @@ def sharpen(image):
         [0, -1, 0]
     ])
     return cv2.filter2D(image, -1, kernel)
+
+
+
+###  streamlit run app.py
